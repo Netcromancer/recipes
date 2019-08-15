@@ -1,5 +1,5 @@
-#H1 Recipes
+#Recipes
 
-#H2 Collection of Recipes
+## Collection of Recipes
 
-#H3 Table of Contents
+### Table of Contents
