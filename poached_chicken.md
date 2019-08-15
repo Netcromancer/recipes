@@ -9,7 +9,7 @@
 * 2 oz **White Wine**
 * 8 oz **Chicken Stock**
 * 6 oz **Heavy Cream**
-* 2 oz **Beurre Manié**
+* 2 oz [**Beurre Manié**](https://github.com/nihil777/recipes/blob/master/buerre_manie.md)
 * 2 TBSP **Parsley, Finely Chopped**
 * 2 TBSP **Chives, Finely Chopped**
 * 2 TBSP **Dill, Finely Chopped**
