@@ -4,17 +4,17 @@
 
 ## Ingredients
 
-8 ea **Garlic Cloves, Crushed**
-3 ea **Fennel Bulbs, Trimmed and Cut Into 1/4 Inch Slices**
-1.5 lbs **Roma Tomatoes, Halved**
-1 tsp **Fennel Seeds**
-1 tsp **Sugar**
-1 ea **Bay Leaf**
-3 strips **Orange Zest**
-1 qt **Extra-Virgin Olive Oil**
-4 ea **Halibut Filets, Skinned**
-2.5 tsp **Salt, divided**
-.5 tsp **Pepper**
+* 8 ea **Garlic Cloves, Crushed**
+* 3 ea **Fennel Bulbs, Trimmed and Cut Into 1/4 Inch Slices**
+* 1.5 lbs **Roma Tomatoes, Halved**
+* 1 tsp **Fennel Seeds**
+* 1 tsp **Sugar**
+* 1 ea **Bay Leaf**
+* 3 strips **Orange Zest**
+* 1 qt **Extra-Virgin Olive Oil**
+* 4 ea **Halibut Filets, Skinned**
+* 2.5 tsp **Salt, divided**
+* .5 tsp **Pepper**
 
 ## Directions
 
