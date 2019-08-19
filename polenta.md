@@ -4,7 +4,7 @@
 
 ## Ingredients
 
-- 16 oz **Chicken Stock**
+- 16 oz [**Chicken Stock**](https://github.com/Netcromancer/recipes/blob/master/chicken_stock.md)
 - .5 tsp **Salt**
 - .5 tsp **White Pepper**
 - 6 oz **Yellow Cornmeal**
