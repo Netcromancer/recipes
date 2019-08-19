@@ -9,7 +9,7 @@
 - 2 oz **Onion, finely diced**
 - 1 cup **Arborio Rice**
 - 4 oz **White Wine**
-- 24 oz **Chicken Stock, kept warm**
+- 24 oz [**Chicken Stock**](https://github.com/Netcromancer/recipes/blob/master/chicken_stock.md)
 - 1 oz **Parmesan, grated**
 - To Taste **Salt and Pepper**
 
